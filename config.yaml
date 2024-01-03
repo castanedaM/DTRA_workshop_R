@@ -64,6 +64,7 @@ episodes:
 - 02-starting-with-data.Rmd
 - 03-dplyr.Rmd
 - 04-visualization-ggplot2.Rmd
+- 05-r-and-databases.Rmd
 
 # Information for Learners
 learners: 
@@ -82,4 +83,4 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://castanedam.github.io/DTRA_workshop_R'
+url: 'https://datacarpentry.github.io/R-ecology-lesson'
