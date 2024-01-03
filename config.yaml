@@ -66,15 +66,15 @@ episodes:
 - 04-visualization-ggplot2.Rmd
 
 # Information for Learners
-learners: 
-- reference.md
+# learners: 
+# - reference.md
 
 # Information for Instructors
-instructors: 
-- instructor-notes.md
+# instructors: 
+# - instructor-notes.md
 
 # Learner Profiles
-profiles: 
+# profiles: 
 
 # Customisation ---------------------------------------------
 #
@@ -82,4 +82,4 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://datacarpentry.github.io/R-ecology-lesson'
+url: 'https://castanedam.github.io/DTRA_workshop_R'
