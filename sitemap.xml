@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/00-before-we-start.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/00-before-we-start.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/01-intro-to-r.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/01-intro-to-r.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/02-starting-with-data.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/02-starting-with-data.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/03-dplyr.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/03-dplyr.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/04-visualization-ggplot2.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/04-visualization-ggplot2.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/05-r-and-databases.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/05-r-and-databases.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/404.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/404.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/CITATION.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/CITATION.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/CONDUCT.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/LICENSE.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/NEWS.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/NEWS.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/aio.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/aio.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/images.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/images.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/index.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/index.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/00-before-we-start.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/00-before-we-start.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/01-intro-to-r.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/01-intro-to-r.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/02-starting-with-data.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/02-starting-with-data.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/03-dplyr.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/03-dplyr.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/04-visualization-ggplot2.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/04-visualization-ggplot2.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/05-r-and-databases.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/05-r-and-databases.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/404.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/CITATION.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/CITATION.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/CONDUCT.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/LICENSE.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/NEWS.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/NEWS.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/aio.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/images.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/index.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/instructor-notes.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/key-points.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/profiles.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/reference.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor/reference.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor-notes.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/key-points.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/key-points.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/profiles.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/profiles.html</loc>
   </url>
   <url>
-    <loc>https://datacarpentry.github.io/R-ecology-lesson/reference.html</loc>
+    <loc>https://castanedam.github.io/DTRA_workshop_R/reference.html</loc>
   </url>
 </urlset>
