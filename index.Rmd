@@ -8,7 +8,7 @@ site: sandpaper::sandpaper_site
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
 
-![](episodes/fig/DC-logo-vision.png){alt=""}
+![](episodes/fig/Vertical_VT_Full_Color_RGB.png){alt=""}
 
 </div>
 
