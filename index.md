@@ -18,8 +18,8 @@ site: sandpaper::sandpaper_site
 <p></p>
 
 This lesson aims to teach researchers basic concepts, skills,
-and tools for working with data so that they can get more done in less
-time, and with less pain. The lessons below were designed for those interested
+and tools for working with data to get more done in less time 
+and with less pain. The lessons below were designed for those interested
 in working with ecology data in R.
 
 This is an introduction to R designed for participants with no programming
