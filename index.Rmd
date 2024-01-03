@@ -9,9 +9,9 @@ site: sandpaper::sandpaper_site
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
 
 ![](episodes/fig/Vertical_VT_Full_Color_RGB.jpg){alt="" style="width: 25%; display: inline-block;"}
-![](episodes/fig/Vertical_VT_Full_Color_RGB.jpg){alt="" style="width: 25%; display: inline-block;"}
-![](episodes/fig/Vertical_VT_Full_Color_RGB.jpg){alt="" style="width: 25%; display: inline-block;"}
-![](episodes/fig/Vertical_VT_Full_Color_RGB.jpg){alt="" style="width: 25%; display: inline-block;"}
+![](episodes/fig/CDC_logo.jpg){alt="" style="width: 25%; display: inline-block;"}
+![](episodes/fig/NCDC_logo.jpg){alt="" style="width: 25%; display: inline-block;"}
+![](episodes/fig/DTRA_logo.jpg){alt="" style="width: 25%; display: inline-block;"}
 
 </div>
 
