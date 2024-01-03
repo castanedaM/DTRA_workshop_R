@@ -34,5 +34,3 @@ experience.
 ## Contributors
 
 This lesson was inspired by Software and Data Carpentry Workshops.
-
-
