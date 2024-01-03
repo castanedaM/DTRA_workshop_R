@@ -2,19 +2,6 @@
 title: Setup
 ---
 
-## Preparations
-
-Data Carpentry's teaching is hands-on, and to follow this lesson
-learners must have R and RStudio installed on their computers. They also need
-to be able to install a number of R packages, create directories, and download
-files.
-
-To avoid troubleshooting during the lesson, learners should follow the
-instruction below to download and install everything beforehand.
-If they are using their own computers this should be no problem,
-but if the computer is managed by their organization's IT department
-they might need help from an IT administrator.
-
 ## Install R and RStudio
 
 R and RStudio are two separate pieces of software:
