@@ -1,8 +1,7 @@
 ---
 title: Control Flow
-teaching: 45
-exercises: 20
-source: Rmd
+author: Data Carpentry contributors
+minutes: 60
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
