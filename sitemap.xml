@@ -16,6 +16,9 @@
     <loc>https://datacarpentry.github.io/R-ecology-lesson/04-visualization-ggplot2.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.github.io/R-ecology-lesson/05-control-flow.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.github.io/R-ecology-lesson/05-r-and-databases.html</loc>
   </url>
   <url>
@@ -56,6 +59,9 @@
   </url>
   <url>
     <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/04-visualization-ggplot2.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/05-control-flow.html</loc>
   </url>
   <url>
     <loc>https://datacarpentry.github.io/R-ecology-lesson/instructor/05-r-and-databases.html</loc>
