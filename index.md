@@ -1,5 +1,5 @@
 ---
-title: "DTRA WORKSHOP: Data Analysis and Visualization in R"
+title: "Summary and Set-up"
 author: Mariana Castaneda-Guzman
 site: sandpaper::sandpaper_site
 ---
