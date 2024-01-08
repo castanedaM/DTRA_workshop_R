@@ -125,13 +125,21 @@ x
 [1] FALSE
 ```
 
+Now, lets try with some data. Download the gap minder data [here](https://figshare.com/ndownloader/files/43959819), and load it into R. 
+
+
+```r
+gapminder <- read.csv("data/gapminder_data.csv", header = TRUE)
+```
+
+
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Challenge 1
 
 Use an `if()` statement to print a suitable message
 reporting whether there are any records from 2002 in
-the `gapminder` dataset.
+the `gapminder` dataset.  
 Now do the same for 2012.
 
 :::::::::::::::  solution
