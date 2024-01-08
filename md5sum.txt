@@ -1,6 +1,4 @@
 "file" "checksum" "built" "date"
-"CITATION.Rmd" "98c744817354e3830f876dfc7fa90a5a" "site/built/CITATION.md" "2024-01-03"
-"CONDUCT.Rmd" "7c641d39cca87dd06dfd87fc535dc24a" "site/built/CONDUCT.md" "2024-01-03"
 "LICENSE.Rmd" "ac8cf7fc8ee2cfb893ff831001b97e29" "site/built/LICENSE.md" "2024-01-03"
 "config.yaml" "7de732f28715cb8ec1e2ad047a741ab4" "site/built/config.yaml" "2024-01-04"
 "index.Rmd" "283fc8ab19669c86d676785ec4c71319" "site/built/index.md" "2024-01-08"
