@@ -159,3 +159,14 @@ are expecting problems with the network, it may be better to download the data
 beforehand and store it on your machine.
 
 The data files for the lesson can be downloaded manually here: [https://doi.org/10.6084/m9.figshare.1314459](https://doi.org/10.6084/m9.figshare.1314459)
+
+
+## Contributors
+
+This lesson was inspired by Software and Data Carpentry Workshops.
+
+## Acknowledgments
+
+CDC, NCDC, DTRA, VT
+
+
