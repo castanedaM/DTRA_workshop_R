@@ -28,11 +28,3 @@ summary statistics from a data frame, and a brief introduction to plotting.
 This lesson assumes no prior knowledge of R or RStudio and no programming
 experience.
 
-
-## Acknowledgments
-
-CDC, NCDC, DTRA, VT
-
-## Contributors
-
-This lesson was inspired by Software and Data Carpentry Workshops.
