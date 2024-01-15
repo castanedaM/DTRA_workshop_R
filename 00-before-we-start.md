@@ -174,12 +174,12 @@ below.
   `New Project`.
 3. Enter a name for this new folder (or "directory"), and choose a convenient
   location for it. This will be your **working directory** for the rest of the
-  day (e.g., `~/data-carpentry`).
+  day (e.g., `~/DTRA-workshop`).
 4. Click on `Create Project`.
 5. Download the [code
   handout](files/code-handout.R), place
   it in your working directory and rename it (e.g.,
-  `data-carpentry-script.R`).
+  `DTRA-workshop-script.R`).
 6. (Optional) Set Preferences to 'Never' save workspace in RStudio.
 
 A workspace is your current working environment in R which includes any
@@ -224,7 +224,7 @@ we will use `data/` for when we learn how to export data as CSV files, and a
 
 - Under the `Files` tab on the right of the screen, click on `New Folder` and
   create a folder named `data_raw` within your newly created working directory
-  (e.g., `~/data-carpentry/`). (Alternatively, type `dir.create("data_raw")`
+  (e.g., `~/data/`). (Alternatively, type `dir.create("data_raw")`
   at your R console.) Repeat these operations to create a `data` and a `fig`
   folder.
 
