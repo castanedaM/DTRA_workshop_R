@@ -108,7 +108,7 @@ of new versions every once in a while.
 
 During the course we will need a number of R packages. Packages contain useful
 R code written by other people. We will use the packages
-`tidyverse`, `hexbin`, `patchwork`, and `RSQLite`.
+`tidyverse`, `hexbin`, and `patchwork`.
 
 To try to install these packages, open RStudio and copy and paste the following
 command into the console window (look for a blinking cursor on the bottom left),
@@ -116,7 +116,7 @@ then press the <kbd>Enter</kbd> (Windows and Linux) or <kbd>Return</kbd> (MacOS)
 to execute the command.
 
 ```r
-install.packages(c("tidyverse", "hexbin", "patchwork", "RSQLite"))
+install.packages(c("tidyverse", "hexbin", "patchwork"))
 ```
 
 Alternatively, you can install the packages using RStudio's graphical user
@@ -131,7 +131,6 @@ packages by pasting the following code into the console:
 library(tidyverse)
 library(hexbin)
 library(patchwork)
-library(RSQLite)
 ```
 
 If you do not see an error like `there is no package called ‘...'` you are good
@@ -164,6 +163,7 @@ The data files for the lesson can be downloaded manually here: [https://doi.org/
 ## Contributors
 
 This lesson was inspired by Software and Data Carpentry Workshops.
+
 
 ## Acknowledgments
 
