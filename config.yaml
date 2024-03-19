@@ -1,0 +1,86 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor training for instance)
+# incubator: The Carpentries Incubator
+carpentry: 'dc'
+
+# Overall title for pages.
+title: 'DTRA WORKSHOP: Analysis and Visualisation in R'
+
+# Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: '2024-01-03'
+
+# Comma-separated list of keywords for the lesson
+keywords: 'software, data, R, ecology'
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: 'stable'
+
+# License of the lesson materials (recommended CC-BY 4.0)
+license: 'CC-BY 4.0'
+
+# Link to the source repository for this lesson
+source: 'https://github.com/castanedaM/DTRA_workshop_R'
+
+# Default branch of your lesson
+branch: 'main'
+
+# Who to contact if there are any issues
+contact: 'marianacg@vt.edu'
+
+# Navigation ------------------------------------------------
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section. Leave blank to
+# include all pages in the folder.
+#
+# Example -------------
+#
+# episodes:
+# - introduction.md
+# - first-steps.md
+#
+# learners:
+# - setup.md
+#
+# instructors:
+# - instructor-notes.md
+#
+# profiles:
+# - one-learner.md
+# - another-learner.md
+
+# Order of episodes in your lesson
+episodes: 
+- 00-before-we-start.Rmd
+- 01-intro-to-r.Rmd
+- 02-starting-with-data.Rmd
+- 03-dplyr.Rmd
+- 04-visualization-ggplot2.Rmd
+- 05-control-flow.Rmd
+
+# Information for Learners
+learners: 
+- reference.md
+
+# Information for Instructors
+instructors: 
+- instructor-notes.md
+
+# Learner Profiles
+profiles: 
+
+# Customisation ---------------------------------------------
+#
+# This space below is where custom yaml items (e.g. pinning
+# sandpaper and varnish versions) should live
+
+
+url: 'https://datacarpentry.github.io/R-ecology-lesson'
